@@ -201,6 +201,13 @@ img {
   border-style: none;
 }
 
+.logo {
+  width: 2em;
+  height: 2em;
+  margin-top: -5px;
+  Padding: 5px;
+  margin-right: 2px;
+}
 svg {
   overflow: hidden;
   vertical-align: middle;
